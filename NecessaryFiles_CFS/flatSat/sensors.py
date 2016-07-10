@@ -22,8 +22,7 @@ temp_channel  = 1
 id = 999
 
 CMDUTIL_path = '../cmdUtil/cmdUtil'
-#HOST = '10.0.118.213'     #destination address
-HOST = '10.0.101.239'
+HOST = 'XX.X.X.XXX'     #destination address
 PORT = '5005'		  #just a port (where Cosmos is listening)
 PKTID = '0x1808'	  #packet id (required by cmdUtil) will be useful later on
 ENDIAN = 'BE'		  #endianess (matching with Cosmos target config)
